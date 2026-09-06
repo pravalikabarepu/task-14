@@ -100,32 +100,6 @@ Calculates sales associated with each supplier's products.
 Counts the number of orders handled by each employee.
 
 **Finding:** Compares employee workload based on the number of orders handled.
-
-### Query 11 — Products with No Sales
-Identifies products that do not have any matching orders.
-
-**Finding:** Highlights products that may require additional business attention.
-
-### Query 12 — Category Performance
-Compares product count and total sales by category.
-
-**Finding:** Helps identify strong and weak categories by comparing product availability with sales performance.
-
-### Query 13 — Top 10 Products by Sales
-Returns the 10 products with the highest total sales.
-
-**Finding:** Provides a focused view of the most valuable products.
-
-### Query 14 — Top 10 Employees by Sales
-Returns the top employees based on total sales.
-
-**Finding:** Highlights the strongest employee contributors to sales.
-
-### Query 15 — Supplier Product Count
-Counts the number of products supplied by each supplier.
-
-**Finding:** Identifies suppliers with the largest product ranges.
-
 ## Key Skills Demonstrated
 
 - Writing SQL queries for business analysis
